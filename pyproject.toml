@@ -57,6 +57,7 @@ sphinx-autodoc-typehints = { version = "*", optional = true }
 gunicorn = { version = "*", optional = true }
 psycopg2-binary = { version = "^2.9", optional = true }
 watchdog = { version = "^2", optional = true }
+pytz = "*"
 
 [tool.poetry.dev-dependencies]
 pylint = "*"
