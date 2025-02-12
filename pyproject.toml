@@ -38,7 +38,7 @@ exclude = ["**/*.scss", "**/tests/*"]
 "Bug Tracker" = "https://github.com/stellar/django-polaris/issues"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
 django = ">=4.2"
 asgiref = ">=3.2"
 django-model-utils = ">=4.1"
