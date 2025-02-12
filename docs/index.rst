@@ -15,7 +15,7 @@ Django Polaris
 .. _`email list`: https://groups.google.com/g/stellar-polaris
 .. _Stellar Development Foundation: https://www.stellar.org/
 .. _github: https://github.com/stellar/django-polaris
-.. _django app: https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+.. _django app: https://docs.djangoproject.com/en/5.1/intro/reusable-apps/
 .. _`demo wallet`: http://demo-wallet.stellar.org
 
 Polaris is an extendable `django app`_ for Stellar Ecosystem Proposal (SEP) implementations
